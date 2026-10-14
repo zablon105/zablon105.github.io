@@ -1,16 +1,33 @@
-# React + Vite
+# Zablon Kinzi | Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal developer portfolio.
 
-Currently, two official plugins are available:
+I am a Computer Science student passionate about software development, building useful web applications, and solving real-world problems through technology.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies
 
-## React Compiler
+- HTML and CSS
+- JavaScript
+- React
+- Python and Django
+- PostgreSQL
+- Git and GitHub
+- Docker
+- REST APIs
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Featured Projects
 
-## Expanding the Oxlint configuration
+### Client Project Management System
+A web application designed to help manage client projects, track progress, collect feedback, and manage invoices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### KAFU Document Management System
+A document management platform designed to improve document sharing and communication within a university.
+
+### Smart Student Companion
+An academic project concept exploring digital solutions to support students.
+
+## Connect With Me
+
+- GitHub: https://github.com/zablon105
+
+More projects and improvements will be added as I continue learning and developing my skills.
